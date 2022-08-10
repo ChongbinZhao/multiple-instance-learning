@@ -2,7 +2,7 @@
 
 <br>
 
-**论文链接：**https://arxiv.org/abs/1802.04712
+**论文链接：** https://arxiv.org/abs/1802.04712
 
 <br>
 
